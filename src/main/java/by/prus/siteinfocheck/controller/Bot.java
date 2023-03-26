@@ -35,7 +35,7 @@ public class Bot extends TelegramLongPollingBot {
         }
     }
 
-    @Scheduled(cron = "0 0/15 9-21 * * *") // 10-22 each 15 min , Italy time.
+    @Scheduled(cron = "0 0/15 9-21 * * *") // 10-22 each 15 min , Italy time. check
     public void sheduledCheck(){
         Set<SendMessage> notifications = messageService.findChangesOnSites();
         notifications.forEach(this::sendMessage);

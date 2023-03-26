@@ -1,0 +1,14 @@
+by\prus\siteinfocheck\service\CheckMilanoInfoService.class
+by\prus\siteinfocheck\service\InfoService.class
+by\prus\siteinfocheck\repository\StorageRepository.class
+by\prus\siteinfocheck\service\MessageService.class
+by\prus\siteinfocheck\model\SiteInfo.class
+by\prus\siteinfocheck\model\Subscriber.class
+by\prus\siteinfocheck\service\Constant.class
+by\prus\siteinfocheck\service\CheckJuventusInfoService.class
+by\prus\siteinfocheck\SiteInfoCheckApplication.class
+by\prus\siteinfocheck\controller\Bot.class
+by\prus\siteinfocheck\GlobalExceptionHandler.class
+by\prus\siteinfocheck\BotInitializer.class
+by\prus\siteinfocheck\repository\SubscriberDAO.class
+by\prus\siteinfocheck\repository\SiteInfoDAO.class

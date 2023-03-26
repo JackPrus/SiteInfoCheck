@@ -1,0 +1,14 @@
+D:\IT\Проекты\SiteInfoCheck\src\main\java\by\prus\siteinfocheck\model\Subscriber.java
+D:\IT\Проекты\SiteInfoCheck\src\main\java\by\prus\siteinfocheck\service\InfoService.java
+D:\IT\Проекты\SiteInfoCheck\src\main\java\by\prus\siteinfocheck\repository\StorageRepository.java
+D:\IT\Проекты\SiteInfoCheck\src\main\java\by\prus\siteinfocheck\BotInitializer.java
+D:\IT\Проекты\SiteInfoCheck\src\main\java\by\prus\siteinfocheck\GlobalExceptionHandler.java
+D:\IT\Проекты\SiteInfoCheck\src\main\java\by\prus\siteinfocheck\controller\Bot.java
+D:\IT\Проекты\SiteInfoCheck\src\main\java\by\prus\siteinfocheck\repository\SubscriberDAO.java
+D:\IT\Проекты\SiteInfoCheck\src\main\java\by\prus\siteinfocheck\repository\SiteInfoDAO.java
+D:\IT\Проекты\SiteInfoCheck\src\main\java\by\prus\siteinfocheck\service\Constant.java
+D:\IT\Проекты\SiteInfoCheck\src\main\java\by\prus\siteinfocheck\service\CheckJuventusInfoService.java
+D:\IT\Проекты\SiteInfoCheck\src\main\java\by\prus\siteinfocheck\model\SiteInfo.java
+D:\IT\Проекты\SiteInfoCheck\src\main\java\by\prus\siteinfocheck\service\CheckMilanoInfoService.java
+D:\IT\Проекты\SiteInfoCheck\src\main\java\by\prus\siteinfocheck\SiteInfoCheckApplication.java
+D:\IT\Проекты\SiteInfoCheck\src\main\java\by\prus\siteinfocheck\service\MessageService.java

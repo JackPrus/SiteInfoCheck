@@ -1,0 +1,72 @@
+11:24:34.824 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+11:27:18.795 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m46s828ms19µs400ns).
+11:27:33.542 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+11:28:32.863 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+11:29:52.002 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+11:30:11.938 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+11:32:22.528 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+11:32:32.980 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+11:32:32.980 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+11:32:35.358 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+11:32:35.358 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+11:36:35.852 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m50s730ms919µs700ns).
+11:36:47.126 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+11:38:12.193 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+11:38:33.324 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+11:41:22.583 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+11:42:48.989 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=57s436ms476µs800ns).
+11:42:50.956 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+11:42:52.751 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+11:42:52.751 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+11:42:53.374 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+11:42:53.374 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+11:44:04.240 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+11:44:17.933 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+11:48:44.601 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+11:50:12.559 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+11:52:06.202 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+11:52:08.465 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+11:52:08.465 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+11:52:09.115 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+11:52:09.115 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+11:52:09.799 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+11:52:09.799 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+11:52:10.255 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+11:52:10.255 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+11:54:05.483 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+11:55:09.111 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+14:15:39.290 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+14:22:58.598 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+14:23:14.209 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+14:23:18.494 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+14:23:18.494 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+14:23:19.065 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+14:23:19.065 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+14:23:43.055 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+14:24:06.019 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+14:24:07.963 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+14:24:07.963 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+14:24:08.467 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+14:24:08.467 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+14:25:01.473 [FotbalTicketsInfoBot Telegram Executor] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+14:26:05.554 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+14:27:59.737 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+14:28:11.799 [FotbalTicketsInfoBot Telegram Executor] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+14:30:02.483 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+14:30:04.364 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+14:30:04.364 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+14:30:04.967 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+14:30:04.967 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+14:48:33.625 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+14:49:15.746 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+14:49:22.435 [FotbalTicketsInfoBot Telegram Executor] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+14:49:26.600 [FotbalTicketsInfoBot Telegram Executor] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+14:49:26.600 [FotbalTicketsInfoBot Telegram Executor] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+14:49:27.135 [FotbalTicketsInfoBot Telegram Executor] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+14:49:27.135 [FotbalTicketsInfoBot Telegram Executor] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+15:14:58.084 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+15:15:02.302 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+15:15:09.906 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+15:15:09.906 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+15:15:10.512 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+15:15:10.512 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 

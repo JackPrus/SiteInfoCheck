@@ -1,0 +1,54 @@
+13:10:09.014 [main] INFO  b.p.s.SiteInfoCheckApplication - Starting SiteInfoCheckApplication using Java 11.0.14 on DESKTOP-2CI6JIV with PID 2428 (D:\IT\Проекты\SiteInfoCheck\target\classes started by Ryzen in D:\IT\Проекты\SiteInfoCheck)
+13:10:09.014 [main] INFO  b.p.s.SiteInfoCheckApplication - Starting SiteInfoCheckApplication using Java 11.0.14 on DESKTOP-2CI6JIV with PID 2428 (D:\IT\Проекты\SiteInfoCheck\target\classes started by Ryzen in D:\IT\Проекты\SiteInfoCheck)
+13:10:09.020 [main] INFO  b.p.s.SiteInfoCheckApplication - No active profile set, falling back to 1 default profile: "default"
+13:10:09.020 [main] INFO  b.p.s.SiteInfoCheckApplication - No active profile set, falling back to 1 default profile: "default"
+13:10:09.765 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+13:10:09.825 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 48 ms. Found 1 JPA repository interfaces.
+13:10:10.437 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+13:10:10.447 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+13:10:10.447 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+13:10:10.448 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.71]
+13:10:10.629 [main] INFO  o.a.c.c.C.[.[.[.me/FotbalTicketsInfoBot] - Initializing Spring embedded WebApplicationContext
+13:10:10.629 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1548 ms
+13:10:10.663 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+13:10:10.833 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+13:10:10.847 [main] INFO  o.s.b.a.h.H2ConsoleAutoConfiguration - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:fotbalinfobot'
+13:10:11.018 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+13:10:11.068 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.15.Final
+13:10:11.213 [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+13:10:11.328 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+13:10:12.027 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+13:10:12.041 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+13:10:12.337 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+13:10:12.975 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+13:10:12.999 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8088 (http) with context path '/t.me/FotbalTicketsInfoBot'
+13:10:13.008 [scheduling-1] INFO  b.p.s.service.MessageService - Sheduled request of changes check
+13:10:13.008 [scheduling-1] INFO  b.p.s.service.MessageService - Sheduled request of changes check
+13:10:13.010 [scheduling-1] INFO  b.p.s.s.CheckJuventusInfoService - Juventus' site request
+13:10:13.010 [scheduling-1] INFO  b.p.s.s.CheckJuventusInfoService - Juventus' site request
+13:10:13.612 [main] INFO  b.p.s.SiteInfoCheckApplication - Started SiteInfoCheckApplication in 5.245 seconds (JVM running for 7.206)
+13:10:13.612 [main] INFO  b.p.s.SiteInfoCheckApplication - Started SiteInfoCheckApplication in 5.245 seconds (JVM running for 7.206)
+13:10:16.726 [Forwarding newSession on session null to remote] INFO  o.o.s.remote.ProtocolHandshake - Detected dialect: W3C
+13:10:16.816 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+13:10:16.817 [scheduling-1] INFO  o.o.s.devtools.CdpVersionFinder - Found CDP implementation for version 111 of 110
+13:10:18.785 [scheduling-1] INFO  b.p.s.service.CheckMilanoInfoService - Milano's site request
+13:10:18.785 [scheduling-1] INFO  b.p.s.service.CheckMilanoInfoService - Milano's site request
+13:10:24.265 [FotbalTicketsInfoBot Telegram Executor] INFO  b.p.s.s.CheckJuventusInfoService - Juventus' site request
+13:10:24.265 [FotbalTicketsInfoBot Telegram Executor] INFO  b.p.s.s.CheckJuventusInfoService - Juventus' site request
+13:10:26.685 [Forwarding newSession on session null to remote] INFO  o.o.s.remote.ProtocolHandshake - Detected dialect: W3C
+13:10:26.705 [FotbalTicketsInfoBot Telegram Executor] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+13:10:26.706 [FotbalTicketsInfoBot Telegram Executor] INFO  o.o.s.devtools.CdpVersionFinder - Found CDP implementation for version 111 of 110
+13:10:28.805 [FotbalTicketsInfoBot Telegram Executor] INFO  b.p.s.service.CheckMilanoInfoService - Milano's site request
+13:10:28.805 [FotbalTicketsInfoBot Telegram Executor] INFO  b.p.s.service.CheckMilanoInfoService - Milano's site request
+13:11:13.008 [scheduling-1] INFO  b.p.s.service.MessageService - Sheduled request of changes check
+13:11:13.008 [scheduling-1] INFO  b.p.s.service.MessageService - Sheduled request of changes check
+13:11:13.008 [scheduling-1] INFO  b.p.s.s.CheckJuventusInfoService - Juventus' site request
+13:11:13.008 [scheduling-1] INFO  b.p.s.s.CheckJuventusInfoService - Juventus' site request
+13:11:15.748 [Forwarding newSession on session null to remote] INFO  o.o.s.remote.ProtocolHandshake - Detected dialect: W3C
+13:11:15.768 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+13:11:15.768 [scheduling-1] INFO  o.o.s.devtools.CdpVersionFinder - Found CDP implementation for version 111 of 110
+13:11:17.626 [scheduling-1] INFO  b.p.s.service.CheckMilanoInfoService - Milano's site request
+13:11:17.626 [scheduling-1] INFO  b.p.s.service.CheckMilanoInfoService - Milano's site request
+13:11:58.567 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+13:11:58.573 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+13:11:58.579 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.

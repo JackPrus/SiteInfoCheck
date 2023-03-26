@@ -1,0 +1,605 @@
+17:10:24.856 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+17:10:27.629 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+17:10:33.845 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:10:33.845 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:10:34.570 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:10:34.570 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:11:26.428 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+17:12:26.274 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+17:12:28.798 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:12:28.798 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:12:29.445 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:12:29.445 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:13:26.344 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+17:13:28.378 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:13:28.378 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:14:26.329 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+17:14:58.757 [FotbalTicketsInfoBot Telegram Executor] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+17:15:00.642 [FotbalTicketsInfoBot Telegram Executor] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:15:00.642 [FotbalTicketsInfoBot Telegram Executor] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:15:01.240 [FotbalTicketsInfoBot Telegram Executor] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:15:01.240 [FotbalTicketsInfoBot Telegram Executor] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:15:26.221 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+17:15:28.456 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:15:28.456 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:15:29.237 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:15:29.237 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:16:26.239 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+17:17:26.239 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+17:17:28.041 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:17:28.041 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:18:26.205 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+17:18:28.487 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:18:28.487 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:19:26.209 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+17:19:28.156 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:19:28.156 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:20:26.241 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+17:20:28.820 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:20:28.820 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:20:29.514 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:20:29.514 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:21:26.219 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+17:21:28.208 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:21:28.208 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:21:28.835 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:21:28.835 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:22:26.255 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+17:22:27.906 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:22:27.906 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:23:26.273 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+17:23:28.061 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:23:28.061 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:24:26.265 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+17:24:28.090 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:24:28.090 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:24:28.711 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:24:28.711 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:24:29.238 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:24:29.238 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:24:29.694 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:24:29.694 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:25:26.190 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+17:25:27.876 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:25:27.876 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:26:26.217 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+17:26:28.090 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:26:28.090 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:27:26.209 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+17:27:27.903 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:27:27.903 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:28:26.252 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+17:28:28.031 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:28:28.031 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:28:28.573 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:28:28.573 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:28:29.062 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:28:29.062 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:29:26.212 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+17:29:27.833 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:29:27.833 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:29:28.348 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:29:28.348 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:30:26.133 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+17:30:27.945 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:30:27.945 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:30:28.506 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:30:28.506 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:30:28.990 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:30:28.990 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:31:26.220 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+17:31:27.991 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:31:27.991 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:32:26.224 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+17:32:28.086 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:32:28.086 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:32:28.670 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:32:28.670 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:33:26.239 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+17:33:27.984 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:33:27.984 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:34:26.206 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+17:34:28.124 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:34:28.124 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:35:26.230 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+17:35:28.927 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:35:28.927 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:35:29.568 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:35:29.568 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:36:26.220 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+17:36:28.144 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:36:28.144 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:37:26.206 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+17:37:27.906 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:37:27.906 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:37:28.478 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:37:28.478 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:38:26.216 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+17:38:28.117 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:38:28.117 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:39:26.192 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+17:39:27.997 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:39:27.997 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:39:28.556 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:39:28.556 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:40:26.190 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+17:40:27.981 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:40:27.981 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:40:28.639 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:40:28.639 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:40:29.068 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:40:29.068 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:40:29.574 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:40:29.574 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:41:26.208 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+17:41:27.977 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:41:27.977 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:41:28.554 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:41:28.554 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:41:29.084 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:41:29.084 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:42:20.424 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+17:42:22.960 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+17:44:12.490 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m53s131ms80µs600ns).
+17:44:28.399 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+17:44:30.848 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+17:44:32.839 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:44:32.839 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:45:29.706 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+17:46:29.701 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+17:46:31.496 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:46:31.496 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:46:32.201 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:46:32.201 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:46:32.744 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:46:32.744 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:46:33.284 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:46:33.284 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:47:29.684 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+17:47:31.456 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:47:31.456 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:47:32.044 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:47:32.044 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:48:29.745 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+17:48:31.697 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:48:31.697 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:48:32.328 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:48:32.328 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:48:32.843 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:48:32.843 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:49:29.697 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+17:49:31.409 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:49:31.409 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:49:31.957 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:49:31.957 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:50:29.698 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+17:50:31.578 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:50:31.578 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:50:32.136 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:50:32.136 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:50:32.615 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:50:32.615 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:50:33.242 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:50:33.242 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:50:33.699 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:50:33.699 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:50:34.227 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:50:34.227 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:51:07.466 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+17:51:09.771 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+17:52:12.042 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+17:52:14.514 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+17:52:16.457 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:52:16.457 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:52:17.040 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:52:17.040 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:52:17.529 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:52:17.529 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:52:18.381 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:52:18.381 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:52:19.006 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:52:19.006 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:53:23.074 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+17:53:45.702 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+17:53:49.996 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+17:53:51.821 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:53:51.821 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:53:52.357 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:53:52.357 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+17:54:48.908 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+17:55:42.359 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+17:58:43.391 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+17:58:47.917 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+17:59:46.266 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+18:00:46.245 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+18:01:46.605 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+18:02:46.229 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+18:03:46.523 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+18:04:46.604 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+18:05:46.692 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+18:06:46.239 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+18:07:46.301 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+18:08:46.365 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+18:09:46.597 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+18:10:46.269 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+18:11:46.635 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+18:12:46.262 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+18:13:46.249 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+18:14:46.499 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+18:15:46.240 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+18:16:46.510 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+18:17:46.245 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+18:18:46.227 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+18:19:46.654 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+18:20:46.524 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+18:21:46.525 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+18:22:46.217 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+18:23:46.532 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+18:24:46.225 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+18:25:46.573 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+18:26:46.225 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+18:27:46.255 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+18:28:46.241 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+18:29:46.231 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+18:30:46.202 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+18:31:46.512 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+18:32:46.259 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+18:33:46.640 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+18:34:46.287 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+18:34:48.341 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+18:34:48.341 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+18:34:48.893 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+18:34:48.893 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+18:35:46.259 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+18:35:48.332 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+18:35:48.332 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+18:35:48.999 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+18:35:48.999 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+18:36:46.249 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+18:36:48.001 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+18:36:48.001 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+18:36:48.635 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+18:36:48.635 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+18:37:46.539 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+18:37:48.548 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+18:37:48.548 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+18:37:49.228 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+18:37:49.228 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+18:38:46.233 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+18:39:46.254 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+18:39:49.711 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+18:39:49.711 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+18:39:50.467 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+18:39:50.467 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+18:40:46.215 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+18:41:46.264 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+18:41:47.991 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+18:41:47.991 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+18:42:46.252 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+18:42:48.017 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+18:42:48.017 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+18:42:48.714 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+18:42:48.714 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+18:42:49.210 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+18:42:49.210 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+18:43:46.525 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+18:43:48.038 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+18:43:48.038 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+18:44:46.246 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+18:44:48.167 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+18:44:48.167 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+18:44:48.712 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+18:44:48.712 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+18:44:49.176 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+18:44:49.176 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+18:45:46.613 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+18:45:48.497 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+18:45:48.497 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+18:46:46.230 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+18:46:48.213 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+18:46:48.213 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+18:46:48.810 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+18:46:48.810 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+18:46:49.235 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+18:46:49.235 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+18:46:49.723 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+18:46:49.723 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+18:46:50.154 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+18:46:50.154 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+18:46:50.620 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+18:46:50.620 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+18:47:46.220 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+18:47:47.956 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+18:47:47.956 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+18:47:48.604 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+18:47:48.604 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+18:48:46.282 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+18:48:48.239 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+18:48:48.239 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+18:48:49.012 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+18:48:49.012 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+18:48:49.489 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+18:48:49.489 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+18:48:50.155 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+18:48:50.155 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+18:49:46.236 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+18:49:47.837 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+18:49:47.837 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+18:50:46.559 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+18:50:48.276 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+18:50:48.276 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+18:51:46.264 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+18:51:47.838 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+18:51:47.838 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+18:51:48.444 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+18:51:48.444 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+18:52:46.219 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+18:52:48.028 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+18:52:48.028 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+18:52:48.629 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+18:52:48.629 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+18:52:49.144 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+18:52:49.144 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+18:54:06.868 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+18:55:45.633 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+18:57:06.208 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+19:03:26.145 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+19:03:50.920 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+19:03:55.174 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+19:04:04.887 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:04:04.887 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:04:05.545 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:04:05.545 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:04:06.334 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:04:06.334 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:04:06.974 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:04:06.974 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:04:53.831 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+19:04:55.457 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:04:55.457 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:04:56.117 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:04:56.117 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:05:53.778 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+19:05:55.536 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:05:55.536 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:05:56.167 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:05:56.167 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:05:56.682 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:05:56.682 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:05:57.153 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:05:57.153 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:05:57.643 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:05:57.643 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:05:58.076 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:05:58.076 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:05:58.491 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:05:58.491 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:05:58.955 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:05:58.955 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:05:59.392 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:05:59.392 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:05:59.853 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:05:59.853 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:06:00.280 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:06:00.280 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:06:00.778 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:06:00.778 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:06:01.221 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:06:01.221 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:06:01.679 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:06:01.679 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:06:02.129 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:06:02.129 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:06:02.648 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:06:02.648 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:06:53.777 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+19:07:53.813 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+19:07:55.866 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:07:55.866 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:07:56.674 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:07:56.674 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:08:54.093 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+19:08:55.489 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:08:55.489 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:09:54.124 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+19:10:54.090 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+19:11:18.182 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+19:11:22.443 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+19:11:24.035 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:11:24.035 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:12:10.508 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+19:12:34.282 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+19:12:38.586 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+19:12:40.866 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:12:40.866 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:12:41.426 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:12:41.426 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:13:31.736 [FotbalTicketsInfoBot Telegram Executor] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+19:13:33.299 [FotbalTicketsInfoBot Telegram Executor] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:13:33.299 [FotbalTicketsInfoBot Telegram Executor] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:13:37.462 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+19:14:37.460 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+19:15:37.408 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+19:16:37.113 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+19:16:38.809 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:16:38.809 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:16:39.336 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:16:39.336 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:17:37.139 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+19:17:39.027 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:17:39.027 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:18:37.200 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+19:18:38.907 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:18:38.907 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:18:39.479 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:18:39.479 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:19:37.142 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+19:19:38.924 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:19:38.924 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:19:39.452 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:19:39.452 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:20:37.419 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+19:20:39.280 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:20:39.280 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:20:39.858 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:20:39.858 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:20:40.339 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:20:40.339 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:20:40.742 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:20:40.742 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:20:41.239 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:20:41.239 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:20:41.781 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:20:41.781 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:21:37.443 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+19:21:39.300 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:21:39.300 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:21:39.902 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:21:39.902 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:22:37.451 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+19:22:39.521 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:22:39.521 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:22:40.145 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:22:40.145 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:23:37.156 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+19:23:38.795 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:23:38.795 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:24:37.406 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+19:25:37.231 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+19:26:37.117 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+19:26:38.965 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:26:38.965 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:26:39.588 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:26:39.588 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:27:37.466 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+19:28:37.438 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+19:28:39.107 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:28:39.107 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:28:39.897 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:28:39.897 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:28:40.634 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:28:40.634 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:29:37.484 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+19:30:37.350 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+19:30:39.216 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:30:39.216 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:30:39.790 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:30:39.790 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:30:40.281 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:30:40.281 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:31:37.031 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+19:32:37.653 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+19:32:40.265 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:32:40.265 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:32:40.892 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:32:40.892 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:33:37.366 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+19:34:37.412 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+19:34:39.229 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:34:39.229 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:34:39.774 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:34:39.774 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:35:37.013 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+19:35:38.638 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:35:38.638 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:35:39.187 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:35:39.187 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:35:39.726 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:35:39.726 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:35:40.201 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:35:40.201 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:35:40.644 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:35:40.644 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:35:41.137 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:35:41.137 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:36:36.986 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+19:37:36.997 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+19:37:38.617 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:37:38.617 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:38:37.347 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+19:39:50.498 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+19:39:54.803 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+19:39:57.284 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:39:57.284 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:39:57.852 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:39:57.852 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:39:58.447 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:39:58.447 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:40:45.412 [FotbalTicketsInfoBot Telegram Executor] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+19:40:47.252 [FotbalTicketsInfoBot Telegram Executor] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:40:47.252 [FotbalTicketsInfoBot Telegram Executor] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:40:53.384 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+19:41:53.678 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+19:41:55.558 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:41:55.558 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:42:53.594 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+19:42:55.312 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:42:55.312 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:42:55.870 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:42:55.870 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:42:56.312 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:42:56.312 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:43:53.405 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+19:43:55.094 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:43:55.094 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:43:55.717 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:43:55.717 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:44:53.311 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+19:44:55.041 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:44:55.041 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:44:55.594 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:44:55.594 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:44:56.181 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:44:56.181 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:44:56.658 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:44:56.658 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:44:57.201 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:44:57.201 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:44:57.729 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:44:57.729 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:46:08.906 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+19:46:13.218 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+19:46:14.807 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:46:14.807 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:48:22.710 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+19:48:53.056 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+19:48:57.260 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+19:49:00.199 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:49:00.199 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:49:00.720 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:49:00.720 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:49:01.193 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:49:01.193 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:49:01.718 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:49:01.718 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:49:27.394 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+19:49:55.891 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+19:52:16.643 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+19:52:20.987 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+19:52:22.743 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:52:22.743 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:52:23.286 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:52:23.286 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:53:19.769 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+19:53:30.723 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+19:53:34.946 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+19:54:33.972 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+19:55:31.716 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m2s20ms476µs900ns).
+19:55:35.937 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+19:55:37.604 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:55:37.604 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:55:38.198 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:55:38.198 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:56:33.895 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+19:57:33.564 [scheduling-1] WARN  o.o.s.devtools.CdpVersionFinder - Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+19:57:35.245 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:57:35.245 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:57:35.789 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:57:35.789 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:57:36.261 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:57:36.261 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:57:36.731 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:57:36.731 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:57:37.218 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:57:37.218 [scheduling-1] WARN  b.p.s.s.CheckJuventusInfoService - Missing info for objects: 
+19:58:52.816 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning

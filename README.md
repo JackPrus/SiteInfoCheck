@@ -20,5 +20,8 @@ JAVA_TOOL_OPTION    -   -Xmx1024m -Dwebdriver.chrome.driver=/app/.chromedriver/b
 
 
 Next we need to add following links of google chrome and chrome driver to buildpack of settings
+
 https://github.com/heroku/heroku-buildpack-google-chrome
+
 https://github.com/heroku/heroku-buildpack-chromedriver
+
